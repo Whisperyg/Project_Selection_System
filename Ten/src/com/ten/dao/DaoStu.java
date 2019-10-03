@@ -31,7 +31,7 @@ public class DaoStu {
 		return stu1;
 	}
 	/*
-	 * 学生所有选课
+	 * 学生所有选课;
 	 * 
 	public Iterator<Course> selectSC(){
 		List<Course> list = null;
